@@ -1,0 +1,4 @@
+<!-- <i [class]="coracaoCheio"></i>
+<i [class]="coracaoCheio"></i>
+<i [class]="coracaoCheio"></i> -->
+<i *ngFor="let c of coracoes" [class]="c.exibeCoracao()"></i>
