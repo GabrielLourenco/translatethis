@@ -1,8 +1,8 @@
-#Primeiro App em Angular
+#Primeiro App em Angular#
 
 O app será um game de traduzir orações em inglês para português [Angular]
 
-##Para instalar
+##Para instalar##
 
 1) Você deve possuir o `node.js` e o `Angular CLI`
 2) Baixe e extraia o .zip do projeto, abra um terminal, vá até a pasta que você extraiu
